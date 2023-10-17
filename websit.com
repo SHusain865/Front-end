@@ -7,9 +7,6 @@
     <title> that is Project</title>
 </head>
 <body>
-   body {
-      background-color
-   }
    <form>
 <h2>Ragistration Form</h2>
  <form action="action.php">
